@@ -1,0 +1,33 @@
+# University Management System - Requirements
+# Python version: 3.10 or higher recommended
+
+# Core system runs with standard Python (no external packages required)
+
+# For data handling and GPA calculations (future extension)
+pandas==2.2.2
+
+# For optional data visualization and reporting
+matplotlib==3.9.2
+
+
+# Web Scrapping and Data analysis
+# Core
+pandas==2.2.2
+numpy==1.26.4
+
+# Web scraping
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.24.0
+
+# Statistical & ML
+scikit-learn==1.5.1
+scipy==1.14.1
+
+# Jupyter environment
+notebook==7.2.2
+ipython==8.27.0

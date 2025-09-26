@@ -16,10 +16,10 @@ Features shown in this script:
 Run this file to see a sample simulation of the system.
 """
 
-from Question_01.student import UndergraduateStudent, GraduateStudent
-from Question_01.faculty import Professor, Lecturer, TA
-from Question_01.person import Staff
-from Question_01.department import Department, Course
+from student import UndergraduateStudent, GraduateStudent
+from faculty import Professor, Lecturer, TA
+from person import Staff
+from department import Department, Course
 
 if __name__ == "__main__":
 
