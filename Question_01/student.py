@@ -8,7 +8,7 @@ and GraduateStudent.
 
 """
 
-from Question_01.person import Person, SecureStudentRecord
+from person import Person, SecureStudentRecord
 import datetime
 
 

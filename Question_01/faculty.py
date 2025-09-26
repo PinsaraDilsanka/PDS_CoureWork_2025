@@ -9,7 +9,7 @@ and responsibility differences.
 """
 
 
-from Question_01.person import Person
+from person import Person
 
 class Faculty(Person):
     def __init__(self, name, person_id, department):
